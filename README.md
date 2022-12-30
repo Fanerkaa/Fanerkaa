@@ -4,8 +4,9 @@
 <a href="https://vk.com/dizainer_ps">
   <img align="left" alt="vk" width="22px" src="https://vk.com/images/icons/favicons/fav_logo.ico?6">
 </a>
-
-
+<a href="https://discord.gg/HqqY7TR2nF">
+  href="https://www.flaticon.com/free-icons/discord" title="discord icons">Discord icons created by Laisa Islam Ani - Flaticon
+</a>
 
 </br>
 
