@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Junior Backend developer
+## Hi 👋 I'm a beginner developer
 
 
 <a href="https://vk.com/allelleo">
