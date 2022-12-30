@@ -4,9 +4,11 @@
 <a href="https://vk.com/dizainer_ps">
   <img align="left" alt="vk" width="22px" src="https://vk.com/images/icons/favicons/fav_logo.ico?6">
 </a>
-![Discord Channel] - https://discord.gg/HqqY7TR2nF
+
 
 </br>
+## Discord Channel
+https://discord.gg/HqqY7TR2nF
 
 <img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
 
