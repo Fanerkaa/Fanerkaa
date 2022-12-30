@@ -4,7 +4,7 @@
 <a href="https://vk.com/dizainer_ps">
   <img align="left" alt="vk" width="22px" src="https://vk.com/images/icons/favicons/fav_logo.ico?6">
 </a>
-[DISCORD CHANNEL|https://discord.gg/HqqY7TR2nF]
+[DISCORD CHANNEL("https://discord.gg/HqqY7TR2nF")]
 
 </br>
 
