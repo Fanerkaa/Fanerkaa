@@ -1,7 +1,7 @@
 ## Hi 👋 I'm a beginner developer
 
 
-<a href="https://vk.com/allelleo">
+<a href="https://vk.com/dizainer_ps">
   <img align="left" alt="vk" width="22px" src="https://vk.com/images/icons/favicons/fav_logo.ico?6">
 </a>
 
