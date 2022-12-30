@@ -4,9 +4,7 @@
 <a href="https://vk.com/dizainer_ps">
   <img align="left" alt="vk" width="22px" src="https://vk.com/images/icons/favicons/fav_logo.ico?6">
 </a>
-<a href="https://discord.gg/HqqY7TR2nF">
-  <img align="left" alt="ds" width="22px" src="https://www.flaticon.com/free-icons/discord">
-</a>
+[![discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)]([https://discord.com/](https://discord.gg/HqqY7TR2nF))
 
 </br>
 
