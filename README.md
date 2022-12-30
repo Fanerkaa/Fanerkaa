@@ -23,4 +23,3 @@ https://discord.gg/HqqY7TR2nF
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![FanerkaKOD github stats](https://github-readme-stats.vercel.app/api?username=FanerkaKOD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![FanerkaKOD Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FanerkaKOD&layout=compact&count_private=true&theme=gruvbox)
