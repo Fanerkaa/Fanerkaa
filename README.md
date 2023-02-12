@@ -17,7 +17,6 @@ https://discord.gg/HqqY7TR2nF
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
