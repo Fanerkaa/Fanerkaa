@@ -17,9 +17,6 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Front-end**
-
-
 **Tools**
 
 ![PyCharm](https://img.shields.io/badge/-PyCharn%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
