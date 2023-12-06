@@ -5,9 +5,7 @@
   <img align="left" alt="vk" width="22px" src="https://vk.com/images/icons/favicons/fav_logo.ico?6">
 </a>
 
-![code](https://github.com/Fanerkaa/Fanerkaa/assets/100419440/6833f10d-41b6-44bb-a4bf-9c0749003e5d)
-
-
+<img align="right" alt="GIF" src="https://github.com/Fanerkaa/Fanerkaa/blob/main/code.gif?raw=true" width="500" height="320" />
 
 </br>
 
