@@ -26,4 +26,6 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharn%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
 
 **Learning**
+
+## 𝐒𝐭𝐚𝐭𝐬
 ![Fanerkaa Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanerkaa&layout=compact&count_private=true&theme=gruvbox)
