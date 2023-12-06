@@ -5,7 +5,8 @@
   <img align="left" alt="vk" width="22px" src="https://vk.com/images/icons/favicons/fav_logo.ico?6">
 </a>
 
-![XDSW](https://github.com/Fanerkaa/Fanerkaa/assets/100419440/6e79459f-8167-49e4-aa80-39b68c3305c8)
+![code](https://github.com/Fanerkaa/Fanerkaa/assets/100419440/6833f10d-41b6-44bb-a4bf-9c0749003e5d)
+
 
 
 </br>
