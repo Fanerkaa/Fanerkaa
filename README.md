@@ -9,7 +9,7 @@
 
 </br>
 
-## Technology stack
+## 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐬𝐭𝐚𝐜𝐤
 
 <img align="right" alt="GIF" src="https://github.com/Fanerkaa/png/blob/main/code.gif?raw=true" width="500" height="320" />
 
