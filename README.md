@@ -27,7 +27,6 @@
 
 **Learning**
 
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 
 ## 𝐒𝐭𝐚𝐭𝐬
 ![Fanerkaa Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanerkaa&layout=compact&count_private=true&theme=gruvbox)
