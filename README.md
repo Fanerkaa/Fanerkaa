@@ -23,7 +23,7 @@
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-#00f0c8.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/-SQLite3-%232c3e50?style=flat-square&logo=Sqlite)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 
