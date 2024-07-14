@@ -24,6 +24,7 @@
 **Tools**
 
 ![PyCharm](https://img.shields.io/badge/-PyCharn%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 **Learning**
 
