@@ -35,8 +35,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-**Learning**
-
-
 ## 𝐒𝐭𝐚𝐭𝐬
 ![Fanerkaa Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanerkaa&layout=compact&count_private=true&theme=gruvbox)
