@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Fanerka 👋</h1>
+<h1 align="center">Fanerka</h1>
 
 <h3 align="center">
   Python Developer · Telegram Automation · Crypto Tools · Web
