@@ -24,15 +24,6 @@
   </a>
 </p>
 
----
-
-<img
-  align="right"
-  src="https://github.com/Fanerkaa/png/blob/main/code.gif?raw=true"
-  width="430"
-  alt="Coding animation"
-/>
-
 ## Обо мне
 
 Разработка, веб и полезные эксперименты.
