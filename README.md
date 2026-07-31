@@ -163,21 +163,22 @@ Telegram-ботов, парсеры, market tools, системы аналити
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Fanerkaa&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Fanerkaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="Fanerkaa GitHub statistics"
   />
+
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanerkaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fanerkaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     alt="Fanerkaa most used languages"
   />
 </p>
 
 <p align="center">
   <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=Fanerkaa&theme=tokyonight&hide_border=true&locale=en"
+    width="65%"
+    src="https://streak-stats.demolab.com?user=Fanerkaa&theme=tokyonight&hide_border=true"
     alt="Fanerkaa GitHub streak"
   />
 </p>
