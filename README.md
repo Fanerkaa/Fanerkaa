@@ -163,25 +163,31 @@ Telegram-ботов, парсеры, market tools, системы аналити
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=Fanerkaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    width="58%"
+    src="https://github-stats-extended.vercel.app/api?username=Fanerkaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     alt="Fanerkaa GitHub statistics"
   />
-
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fanerkaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Fanerkaa most used languages"
-  />
 </p>
 
-<p align="center">
-  <img
-    width="65%"
-    src="https://streak-stats.demolab.com?user=Fanerkaa&theme=tokyonight&hide_border=true"
-    alt="Fanerkaa GitHub streak"
-  />
-</p>
+<table>
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <img
+        width="100%"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fanerkaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+        alt="Fanerkaa most used languages"
+      />
+    </td>
+
+    <td width="62%" align="center" valign="middle">
+      <img
+        width="100%"
+        src="https://streak-stats.demolab.com?user=Fanerkaa&theme=tokyonight&hide_border=true"
+        alt="Fanerkaa GitHub streak"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
