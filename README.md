@@ -1,39 +1,93 @@
-## Hi 👋 I'm a beginner developer
+<h1 align="center">Hi, I'm Fanerka 👋</h1>
 
+<p align="center">
+  Python developer focused on backend development, Telegram bots, databases and web projects.
+</p>
 
-<a href="https://vk.com/btnncx">
-  <img align="left" alt="vk" width="22px" src="https://vk.com/images/icons/favicons/fav_logo.ico?6">
-</a>
+<p align="center">
+  <a href="https://vk.com/btnncx">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
+  </a>
+  <a href="https://github.com/Fanerkaa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
+---
 
+<img
+align="right"
+src="https://github.com/Fanerkaa/png/blob/main/code.gif?raw=true"
+width="430"
+alt="Coding animation"
+/>
 
-</br>
+## About me
 
-## 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐬𝐭𝐚𝐜𝐤
+* 🐍 Developing projects with Python
+* 🤖 Creating Telegram bots
+* 🌐 Working with backend and web technologies
+* 🗄️ Using SQL databases
+* 🐧 Learning Linux and server administration
+* 🚀 Constantly improving my development skills
 
-<img align="right" alt="GIF" src="https://github.com/Fanerkaa/png/blob/main/code.gif?raw=true" width="500" height="320" />
+<br clear="right"/>
 
-**Back-end**
+---
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## Technology stack
 
-**Front-end**
+### Back-end
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 
-**Databases**
+### Front-end
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite3](https://img.shields.io/badge/-SQLite3-%232c3e50?style=flat-square&logo=Sqlite)
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 
-**Tools**
+### Databases
 
-![PyCharm](https://img.shields.io/badge/-PyCharn%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-## 𝐒𝐭𝐚𝐭𝐬
-![Fanerkaa Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fanerkaa&layout=compact&count_private=true&theme=gruvbox)
+### Tools and systems
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge\&logo=windows11\&logoColor=white)
+
+---
+
+## GitHub statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Fanerkaa&show_icons=true&theme=gruvbox&hide_border=true"
+    alt="GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanerkaa&layout=compact&count_private=true&theme=gruvbox&hide_border=true"
+    alt="Most used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Fanerkaa&theme=gruvbox&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+</p>
