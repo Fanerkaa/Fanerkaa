@@ -10,17 +10,16 @@
 </p>
 
 <p align="center">
-  <a href="https://vk.com/btnncx">
-    <img
-      src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white"
-      alt="VK"
-    />
+  <a href="https://t.me/dizainer_ps">
+    <img src="https://img.shields.io/badge/Telegram-@dizainer__ps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+
   <a href="https://github.com/Fanerkaa">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-Fanerkaa-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://halfcoder.ru">
+    <img src="https://img.shields.io/badge/Website-halfcoder.ru-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
