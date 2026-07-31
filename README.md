@@ -185,7 +185,6 @@ Telegram-ботов, парсеры, market tools, системы аналити
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </p>
----
 
 ## GitHub statistics
 
